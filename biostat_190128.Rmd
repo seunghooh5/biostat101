@@ -3,3 +3,17 @@ title: "Biostat_190128"
 output: html_notebook
 ---
 
+#Introduction to Biostatistics Block1
+
+## Statistics
+
+### Definition
+
+"Statistics" is an inclusive term describing the...
+
+* Collection
+* Organization
+* Analysis
+* Interpretation
+
+of **DATA** to answer questions and make decisions.
