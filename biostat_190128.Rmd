@@ -17,3 +17,15 @@ output: html_notebook
 * Interpretation
 
 of **DATA** to answer questions and make decisions.
+
+### Sample = Subset
+
+A subset ('sample') of the larger population is studied in depth to gain information, which is then inferred back to the population as a whole.
+
+![](./Slide_14.png)
+
+### Avoiding bias
+
+* Ideally, a sample should be _representative_ of the population as a whole.
+* **_Representative_**: what is true of the population is also true of the sample.
+* This is more likely to happen if sampling process is free of bias.
