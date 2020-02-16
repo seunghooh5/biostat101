@@ -3,10 +3,11 @@ title: "Biostat_190128"
 output:
   html_notebook:
     toc: true
+    toc_float: true
     theme: united
 ---
 
-#Introduction to Biostatistics Block1
+# Introduction to Biostatistics Block1
 
 ## Statistics
 
@@ -144,3 +145,21 @@ print(m)
 - Disadvantage
   - May not be unique; e.g. bi-modal or multi-modal
   - May not lie near the center.
+  
+  
+#### Dispersion
+- Variation in values
+- When the dispersion is large, the values are widely scattered; when it is small they are tightly clustered.
+-The width of diagrams such as scatterplots, box plots, stem and leaf plots is graeter for samples with more dispersion and vice versa.
+- There are several measures of dispersion
+  - Variance is a fundamental measure of dispersion underlying many statistical procedures
+  - Standard deviation is likely the most common measure of dispersion used as a descriptive statistic
+- These measures indicate to what degree the individual observations of a data set are dispersed or 'spread out' around their mean
+- In manufacturing or measurement, high precesion is associated with low dispersion
+- Common measures include:
+  - Range
+  - Quantiles and interquartile range
+  - Variance and standard deviation
+  - Standard error (or the mean)
+  - Coefficient of variation
+  
